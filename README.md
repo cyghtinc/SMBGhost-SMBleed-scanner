@@ -19,3 +19,6 @@ The scanner will report whether the target machine is vulnerable to SMBGhost and
 * [SMBleedingGhost Writeup: Chaining SMBleed (CVE-2020-1206) with SMBGhost - ZecOps Blog](https://blog.zecops.com/vulnerabilities/smbleedingghost-writeup-chaining-smbleed-cve-2020-1206-with-smbghost/)
 * [CVE-2020-0796 - Microsoft Security Response Center](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796)
 * [CVE-2020-1206 - Microsoft Security Response Center](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1206)
+
+
+**Working with python 3.11
